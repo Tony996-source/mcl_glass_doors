@@ -26,7 +26,7 @@ mcl_glass_doors:register_door("mcl_glass_doors:"..img, {
 	description = desc.. "Glass Door",
 	inventory_image = "mcl_glass_doors_"..img.."_inv.png",
 	groups = {handy=1,axey=1, material_glass=1},
-use_texture_alpha = true,
+    use_texture_alpha = true,
     sunlight_propagates = true,
     drawtype = "glasslike",
     paramtype = "light",
