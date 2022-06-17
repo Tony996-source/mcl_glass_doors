@@ -1,1 +1,1 @@
-A mod adding Coloured Glass Doors to Minetest subgame (MineClone2).
+A mod adding coloured glass doors to Minetest subgame (MineClone2 and mineclone 5).
