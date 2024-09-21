@@ -53,6 +53,7 @@ mcl_glass_doors:register_door("mcl_glass_doors:clear", {
 	inventory_image = "mcl_glass_doors_clear_inv.png",
 	groups = {handy=1,axey=1, material_glass=1},
     sunlight_propagates = true,
+    use_texture_alpha = true,
     drawtype = "glasslike",
     paramtype = "light",
 	tiles_bottom = {"mcl_glass_doors_clear_lower.png", "mcl_glass_doors_side_lower.png"},
